@@ -23,7 +23,7 @@ java -cp -jar target/bowlingGame-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 
-## Running the Application
+## Running the Tests
 
 Run 
 ```
