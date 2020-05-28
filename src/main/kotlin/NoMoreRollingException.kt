@@ -1,0 +1,1 @@
+class NoMoreRollingException(message: String): Exception(message)
